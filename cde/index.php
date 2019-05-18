@@ -22,7 +22,7 @@
 </head>
 <header class="cabecera">
 
-    <h1 class="text-white text-center">Cajero de Documentos Escolares </h1>
+    <h1 class="text-white text-center">Sistema de Documentos Escolares </h1>
 
 </header>
 
